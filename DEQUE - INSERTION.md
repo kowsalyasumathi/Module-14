@@ -26,8 +26,8 @@ To write a Python program to insert elements at REAR END of deque using a collec
 
 ```
 
-# Reg.No: 212223060014
-# Name: AKSHAYA SETTU
+# Reg.No: 212223060129
+# Name: KOWSALYA V
 
 import collections
 a=int(input())
